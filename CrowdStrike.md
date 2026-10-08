@@ -38,7 +38,9 @@ It led to the cancellation of over 1,000 flights globally.
 London stock exange was affected for hours.
 
 Solution:
-para resolver el problema, los responsables de
+To resolve the issue, IT maintenance staff had to physically access the systems, boot into Safe Mode, and delete the file C-00000291*.sys. Once this was done, the system could be restarted and would function correctly again.
+
+The issue has now been resolved, and the corrupt file is no longer being distributed.
 
 
 
