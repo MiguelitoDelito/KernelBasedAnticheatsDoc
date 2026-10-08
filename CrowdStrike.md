@@ -29,12 +29,19 @@ The main causes were:
 
     It runs as a driver in Ring 0 to gain elevated privileges within the operating system. However, a failure in this area causes a Blue Screen, detaining the operating system.
 
+Impact:
+The CrowdStrike failure affected 8.5 million computers worldwide—representing a fraction of all Windows computers—but it disrupted critical systems across a wide range of companies.
+It caused estimated losses exceeding $500 million.
+It led to the cancellation of over 1,000 flights globally.
+47% of Fortune 500 companies were CrowdStrike customers.
+24.000 clients were affected globally.
+London stock exange was affected for hours.
+
+Solution:
+para resolver el problema, los responsables de
 
 
-Orígenes
-Impacto 
-Solución
 
-https://es.wikipedia.org/wiki/Incidente_de_CrowdStrike_de_2024
-https://vs-sistemas.com/el-desastre-de-crowdstrike-analisis/
-
+Wikipedia Incidente de crowdstrike : https://es.wikipedia.org/wiki/Incidente_de_CrowdStrike_de_2024
+VS Sistemas Cómo el Error de CrowdStrike Reveló Fallos Críticos en la Seguridad Informática : https://vs-sistemas.com/el-desastre-de-crowdstrike-analisis/
+ElMundo El fallo de CrowdStrike afectó a 8,5 millones de ordenadores en todo el planeta : https://www.elmundo.es/tecnologia/innovacion/2024/07/22/669de8b6fc6c83be108b4599.html
